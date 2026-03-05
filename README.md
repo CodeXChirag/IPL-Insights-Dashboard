@@ -31,13 +31,9 @@ The dataset was cleaned and prepared using **Python** and further transformed in
 
 ## 📈 Features & Goals
 
-### Business Problem
-
-IPL match data contains multiple dimensions such as teams, venues, toss outcomes, and player statistics, which can be difficult to interpret quickly from raw tables.
-
 ### Goal of the Dashboard
 
-To create a simple and interactive dashboard that:
+To create a clear and interactive dashboard that:
 
 * Tracks total IPL matches
 * Compares team wins
@@ -68,7 +64,7 @@ To create a simple and interactive dashboard that:
 * KPI development and dashboard design
 * Presenting insights in a clear and interactive format
 
-## 🎯 Business Impact
+## 🎯Use Cases
 
 This dashboard can help:
 
